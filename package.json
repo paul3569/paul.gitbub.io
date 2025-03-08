@@ -5,12 +5,12 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uyu423/resume.git"
+    "url": "git+https://github.com/paul3569/resume.git"
   },
   "scripts": {
     "deploy": "gh-pages -d ./"
   },
-  "author": "Yu Yongwoo <uyu423@gmail.com>",
+  "author": "PARK SUNGEON <lklkklkl@naver.com>",
   "license": "UNLICENSED",
   "dependencies": {
     "gh-pages": "^1.1.0"
